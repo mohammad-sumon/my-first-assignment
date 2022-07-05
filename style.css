@@ -95,11 +95,9 @@ body{
     display: flex;
     padding: 5px 100px;
     text-align: left;
-    margin: 0 auto; 
 }
 .family-blog div{
-    width: 25%;
-    background-color: #edf5f6;
+    width: 30%;
     padding: 20px;
     margin: 0px 20px ;
     border-radius: 10px;
@@ -116,4 +114,13 @@ body{
 }
 .family-blog p{
     color: #747575;
+}
+.food-blog{
+    background-color: #edf5f6;
+}
+.relative-blog{
+    background-color: #ffeeee;
+}
+.edu-blog{
+    background-color: #fff4d6;
 }
