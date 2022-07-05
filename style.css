@@ -75,3 +75,45 @@ body{
     color: #7e7e7e;
     margin-bottom: 50px;
 }
+#donate-plan{
+    background-color: #ffffff;
+    text-align: center;
+}
+#donate-plan h1{
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+    margin-top: 150px;
+}
+#donate-plan p{
+    font-size: 20px;
+    color: #7e7e7e;
+    margin-bottom: 100px;
+    line-height: 30px;
+}
+.family-blog{
+    display: flex;
+    padding: 5px 100px;
+    text-align: left;
+    margin: 0 auto; 
+}
+.family-blog div{
+    width: 25%;
+    background-color: #edf5f6;
+    padding: 20px;
+    margin: 0px 20px ;
+    border-radius: 10px;
+}
+.family-blog img{
+    width: 100px;
+    margin-top: 50px;
+}
+.family-blog h3{
+    margin-top: 10px;
+    font-size: 35px;
+    color: #121212;
+    font-weight: 600;
+}
+.family-blog p{
+    color: #747575;
+}
