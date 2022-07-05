@@ -162,3 +162,19 @@ body{
     background-color: #ff5959;
     color: white;
 }
+footer{
+    background-color: #121212;
+    height: 200px;
+    text-align: center;
+    margin-top: 150px;
+}
+footer h3{
+    font-size: 30px;
+    color: #ff5959;
+    padding: 30px;
+    font-style: italic;
+}
+footer p{
+    font-size: 20px;
+    color: #747575;
+}
