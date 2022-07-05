@@ -124,3 +124,41 @@ body{
 .edu-blog{
     background-color: #fff4d6;
 }
+#connect-us{
+    background-color: #ffffff;
+    text-align: center;
+}
+#connect-us h1{
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+    margin-top: 150px;
+}
+#connect-us p{
+    font-size: 20px;
+    color: #7e7e7e;
+    margin-bottom: 100px;
+    line-height: 30px;
+}
+.form{
+    width: 800px;
+    margin: 0 auto;
+    padding: 100px 200px;
+    background-color: #fff4d6;
+}
+.form input{
+    padding: 20px 50px;
+    text-align: left;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 20px;
+}
+.form button{
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    font-size: 20px;
+    padding: 20px 50px;
+    background-color: #ff5959;
+    color: white;
+}
