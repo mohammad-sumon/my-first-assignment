@@ -65,15 +65,19 @@ body{
 .other-help{
     margin-top: 100px;
 }
-.other-help p{
+.other-help input{
+    width: 800px;
+    padding: 20px;
     font-size: 20px;
     color: #7e7e7e;
+    text-align: center;
     font-weight: 400;
-}
-.other-help hr{
-    width: 1000px;
-    color: #7e7e7e;
+    border: none;
+    border-bottom: 1px solid #747575;
     margin-bottom: 50px;
+}
+.donate-btn{
+    
 }
 #donate-plan{
     background-color: #ffffff;
