@@ -3,7 +3,7 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-.banner{
+#banner{
     background-image: url(images/donation13.jpg);
     background-size: cover;
     width: 100%;
@@ -11,24 +11,67 @@ body{
     text-align: center;
     padding-top: 150px;
 }
-.banner h1{
+#banner h1{
     font-size: 60px;
     color: white;
     line-height: 90px;
 }
-.banner p{
+#banner p{
     font-size: 20px;
     font-weight: 400;
     color: rgb(236, 233, 233);
     line-height: 30px;
     margin-bottom: 50px;
 }
-.banner a{
+.custom-btn{
     text-decoration: none;
-    background-color: tomato;
+    background-color: #ff5959;
     padding: 15px 35px;
     color: white;
     font-size: 23px;
     font-weight: 600;
     border-radius: 10px;
+}
+#donation{
+    background-color: #ffffff;
+    text-align: center;
+}
+.donation-header h1{
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+    margin-top: 150px;
+}
+.donation-header p{
+    font-size: 20px;
+    color: #7e7e7e;
+    margin-bottom: 100px;
+    line-height: 30px;
+}
+.amount span{
+    padding: 30PX 40PX;
+    background-color: #FAFAFA;
+    margin-right: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #7e7e7e;
+    border-radius: 10px;
+}
+.amount .mark-amount{
+    background-color: #ffeeee;
+    color: #ff7c7c;
+    border: 2px solid #ff5959;
+}
+.other-help{
+    margin-top: 100px;
+}
+.other-help p{
+    font-size: 20px;
+    color: #7e7e7e;
+    font-weight: 400;
+}
+.other-help hr{
+    width: 1000px;
+    color: #7e7e7e;
+    margin-bottom: 50px;
 }
